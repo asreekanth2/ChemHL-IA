@@ -1,0 +1,51 @@
+\documentclass{article}
+
+%Margins
+\usepackage[margin=1in]{geometry}
+ 
+%Float & Graphics 
+\usepackage{float}
+\usepackage{graphicx}
+
+%Chemistry Equations
+\usepackage [version = 3] {mhchem}
+
+%Document
+\begin{document}
+
+\begin{title}
+\end{title}
+
+\section*{Abstract}
+
+\section*{Introduction} %Introduction
+
+\subsection*{Purpose} %Purpose 
+
+\subsection*{Background}%Background
+
+\subsection*{Hypothesis}%Hypothesis
+
+\subsection*{Safety Information}%Safety Information
+
+\section*{Materials} %Materials
+\begin{enumerate}
+\end{enumerate}
+
+\section*{Methods}%Methods
+
+\section*{Procedure} %Procedure
+
+\section*{Results} %Results
+\subsection*{Raw Data} %Raw Data
+
+\subsection*{Calculations}%Calculations
+
+\section*{Discussion}%Discussion
+\subsection*{Conclusion}
+
+\subsection*{Experimental Error} %Experimental Error 
+
+\subsection*{Improvements} %Improvements 
+
+\end{document}
