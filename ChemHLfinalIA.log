@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 21:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1703,7 +1703,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-[2] (./ChemHLfinalIA.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--77
+
+ []
+
+[2] [3] (./ChemHLfinalIA.aux) ) 
 Here is how much of TeX's memory you used:
  26828 strings out of 493117
  591726 string characters out of 6135433
@@ -1712,18 +1742,18 @@ Here is how much of TeX's memory you used:
  9470 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,21n,62p,10363b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy7.pfb>
-Output written on ChemHLfinalIA.pdf (2 pages, 88310 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb>
+Output written on ChemHLfinalIA.pdf (3 pages, 89818 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
