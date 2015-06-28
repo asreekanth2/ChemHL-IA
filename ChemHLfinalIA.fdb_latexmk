@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1435456263 "ChemHLfinalIA.tex" "ChemHLfinalIA.pdf" "ChemHLfinalIA" 1435456265
+["pdflatex"] 1435459763 "ChemHLfinalIA.tex" "ChemHLfinalIA.pdf" "ChemHLfinalIA" 1435459765
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
@@ -135,12 +135,12 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1253232110 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty" 1137111039 4029 0462ee5ab265cf59dc15a41a3b883101 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "ChemHLfinalIA.aux" 1435456265 145 a2559f0009dc5941aa677298f06fae99 ""
-  "ChemHLfinalIA.tex" 1435456262 5948 88b426f7bd8b3f0ba3f697a0771cde01 ""
+  "ChemHLfinalIA.aux" 1435459765 145 45d541fdbb2016574bd5a57ef77d9ee3 ""
+  "ChemHLfinalIA.tex" 1435459759 8055 39292b62278362712291e8ff803c1469 ""
   "Figures/1.png" 1435427817 23398 98dbbb4bb1b8113b6771d914676568bd ""
   (generated)
+  "ChemHLfinalIA.aux"
+  "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.log"
+  "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.pdf"
   "ChemHLfinalIA.pdf"
   "ChemHLfinalIA.log"
-  "ChemHLfinalIA.aux"
-  "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.pdf"
-  "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.log"

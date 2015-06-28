@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1704,32 +1704,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--77
+Underfull \hbox (badness 10000) in paragraph at lines 63--80
 
  []
 
@@ -1737,7 +1737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--77
 Here is how much of TeX's memory you used:
  26828 strings out of 493117
  591726 string characters out of 6135433
- 613052 words of memory out of 5000000
+ 614052 words of memory out of 5000000
  29906 multiletter control sequences out of 15000+600000
  9470 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1750,7 +1750,7 @@ ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy7.pfb>
-Output written on ChemHLfinalIA.pdf (3 pages, 89818 bytes).
+Output written on ChemHLfinalIA.pdf (3 pages, 92833 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
