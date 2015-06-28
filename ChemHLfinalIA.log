@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.26)  26 JUN 2015 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 21:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ChemHLfinalIA.tex -recorder -output-directory=/home/abhi/Desktop/ChemHL-IA
-(/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.tex
+**ChemHLfinalIA.tex -recorder
+(./ChemHLfinalIA.tex
 LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -23,22 +23,22 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -54,7 +54,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count90
 \float@exts=\toks16
@@ -62,27 +62,27 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box27
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
@@ -90,14 +90,14 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mhchem/mhchem.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count92
 \calc@Bcount=\count93
 \calc@Adimen=\dimen113
@@ -109,27 +109,27 @@ LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count94
 \calc@Cskip=\skip45
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/twoopt.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/twoopt.sty
 Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen115
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen116
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count95
@@ -170,11 +170,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -183,43 +183,42 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2014/09/15 v5423 L3 programming layer (loader) 
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2014/05/20 v4814 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2014/09/15 v5423 L3 programming layer (code) 
-L3 Module: l3bootstrap 2014/08/23 v5354 L3 Bootstrap code
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2014/05/20 v4814 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/05/16 v4782 L3 Bootstrap code
 
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count107
 )
-L3 Module: l3names 2014/08/22 v5343 L3 Namespace for primitives
-L3 Module: l3basics 2014/08/24 v5364 L3 Basic definitions
-L3 Module: l3expan 2014/08/22 v5349 L3 Argument expansion
-L3 Module: l3tl 2014/08/24 v5359 L3 Token lists
-L3 Module: l3str 2014/08/24 v5368 L3 Strings
-L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
-L3 Module: l3int 2014/09/14 v5421 L3 Integers
+L3 Module: l3names 2014/05/04 v4728 L3 Namespace for primitives
+L3 Module: l3basics 2014/05/04 v4728 L3 Basic definitions
+L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
+L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
+L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
+L3 Module: l3int 2014/05/16 v4776 L3 Integers
 \c_max_int=\count108
 \l_tmpa_int=\count109
 \l_tmpb_int=\count110
 \g_tmpa_int=\count111
 \g_tmpb_int=\count112
-L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
-L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
+L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
+L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
 \g__prg_map_int=\count113
-L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
-L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
-L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
-L3 Module: l3msg 2014/08/24 v5358 L3 Messages
-L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
+L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
+L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
+L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
+L3 Module: l3msg 2014/05/04 v4728 L3 Messages
+L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
 \l_iow_line_count_int=\count114
 \l__iow_target_count_int=\count115
 \l__iow_current_line_int=\count116
 \l__iow_current_word_int=\count117
 \l__iow_current_indentation_int=\count118
-L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
 \c_zero_dim=\dimen124
 \c_max_dim=\dimen125
 \l_tmpa_dim=\dimen126
@@ -238,10 +237,10 @@ L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2014/08/23 v5354 L3 Key-value interfaces
+L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
 \g__keyval_level_int=\count119
 \l_keys_choice_int=\count120
-L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
+L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
 \c__fp_leading_shift_int=\count121
 \c__fp_middle_shift_int=\count122
 \c__fp_trailing_shift_int=\count123
@@ -251,13 +250,13 @@ L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
 \c__fp_Bigg_leading_shift_int=\count127
 \c__fp_Bigg_middle_shift_int=\count128
 \c__fp_Bigg_trailing_shift_int=\count129
-L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
 \c_empty_box=\box30
 \l_tmpa_box=\box31
 \l_tmpb_box=\box32
 \g_tmpa_box=\box33
 \g_tmpb_box=\box34
-L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
 \l__coffin_internal_box=\box35
 \l__coffin_internal_dim=\dimen130
 \l__coffin_offset_x_dim=\dimen131
@@ -277,8 +276,11 @@ L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen137
 \l__coffin_display_x_dim=\dimen138
 \l__coffin_display_y_dim=\dimen139
-L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2014/08/24 v5366 L3 Experimental additions to l3kernel
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count130
+\g__cctab_stack_int=\count131
+L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen140
 \l__box_bottom_dim=\dimen141
 \l__box_left_dim=\dimen142
@@ -295,13 +297,6 @@ L3 Module: l3candidates 2014/08/24 v5366 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen152
 \l__coffin_scaled_total_height_dim=\dimen153
 \l__coffin_scaled_width_dim=\dimen154
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
-File: l3unicode-data.def 2014/08/12 v5276 L3 Unicode data
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2014/08/24 v5366 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count130
 ))
 \mhchem@ce@result=\toks23
 \mhchem@ce@part=\toks24
@@ -313,7 +308,7 @@ File: l3pdfmode.def 2014/08/24 v5366 L3 Experimental driver: PDF mode
 \mhchem@smallbondwidth@tmpA=\skip58
 \mhchem@smallbondwidth@tmpB=\skip59
 \mhchem@smallbondwidth=\skip60
-\__mhchem_option_version_int=\count131
+\__mhchem_option_version_int=\count132
 \mhchem@prepostscript@tmp@i=\skip61
 \mhchem@prepostscript@tmp@ii=\skip62
 \mhchem@mathbox@tmp@i=\skip63
@@ -322,21 +317,1268 @@ File: l3pdfmode.def 2014/08/24 v5366 L3 Experimental driver: PDF mode
 \mhchem@option@minussidebearingleft=\skip66
 \mhchem@option@minussidebearingright=\skip67
 )
-(/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.aux)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemmacros.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/05/05 v4740 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count133
+\l__xparse_m_args_int=\count134
+\l__xparse_mandatory_args_int=\count135
+\l__xparse_processor_int=\count136
+\l__xparse_v_nesting_int=\count137
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2014/05/05 v4740 LaTeX2e option processing using LaTeX3 keys
+)
+Package: chemmacros 2014/04/08 v4.5 loads of little helpers for chemists (CN)
+Variant \prop_if_in:NVTF already defined; not changing it on line 54
+Variant \prop_put:NVn already defined; not changing it on line 55
+Variant \prop_put:NVV already defined; not changing it on line 55
+Variant \prop_get:NVNTF already defined; not changing it on line 56
+(/usr/local/texlive/2014/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count138
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2014/01/23 v1.2a internationalization of LaTeX2e packages
+ (CN)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cnltx/cnltx-base.sty
+Package: cnltx-base 2014/01/05 v0.10 LaTeX tools and documenting facilities (CN
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2011/06/02 v2.1 LaTeX package options with pgfkeys
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks29
+)))
+\pgfopts@list@add@a@toks=\toks30
+\pgfopts@list@add@b@toks=\toks31
+)
+\c@cnltx@tmpa=\count139
+\c@cnltx@tmpb=\count140
+\c@cnltx@tmpc=\count141
+\cnltx@tmpa@length=\skip68
+\cnltx@tmpb@length=\skip69
+\cnltx@tmpc@length=\skip70
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2014/05/05 v4740 L3 Experimental prototype document function
+s
+\l__xtemplate_tmp_dim=\dimen155
+\l__xtemplate_tmp_int=\count142
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip71
+Variant \prop_get:NoNTF already defined; not changing it on line 106
+Variant \prop_get:NoNT already defined; not changing it on line 107
+Variant \prop_get:NoNF already defined; not changing it on line 108
+)
+Package: xfrac 2014/05/04 v4728 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box45
+\l__xfrac_tmp_box=\box46
+\l__xfrac_denominator_bot_sep_dim=\dimen156
+\l__xfrac_numerator_bot_sep_dim=\dimen157
+\l__xfrac_numerator_top_sep_dim=\dimen158
+\l__xfrac_slash_left_sep_dim=\dimen159
+\l__xfrac_slash_right_sep_dim=\dimen160
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xfrac' taking 3 argument(s) on line 96.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \sfrac with arg. spec. 'omom' on line 436.
+.................................................
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2013/07/31 v2.5s A comprehensive (SI) units package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen161
+\extrarowheight=\dimen162
+\NC@list=\toks32
+\extratabsurround=\skip72
+\backup@length=\skip73
+)
+Variant \tl_if_blank:VTF already defined; not changing it on line 50
+\l__siunitx_tmp_box=\box47
+\l__siunitx_tmp_dim=\dimen163
+\l__siunitx_tmp_int=\count143
+Variant \prop_get:NVNT already defined; not changing it on line 371
+Variant \prop_get:NVNF already defined; not changing it on line 372
+Variant \prop_get:NVNTF already defined; not changing it on line 373
+\l__siunitx_number_mantissa_length_int=\count144
+\l__siunitx_number_uncert_length_int=\count145
+\l__siunitx_round_int=\count146
+\l__siunitx_process_decimal_int=\count147
+\l__siunitx_process_uncertainty_int=\count148
+\l__siunitx_process_fixed_int=\count149
+\l__siunitx_process_integer_min_int=\count150
+\l__siunitx_process_precision_int=\count151
+\l__siunitx_group_min_int=\count152
+\l__siunitx_angle_marker_box=\box48
+\l__siunitx_angle_unit_box=\box49
+\l__siunitx_angle_marker_dim=\dimen164
+\l__siunitx_angle_unit_dim=\dimen165
+\l__siunitx_unit_int=\count153
+\l__siunitx_unit_denominator_int=\count154
+\l__siunitx_unit_numerator_int=\count155
+\l__siunitx_unit_prefix_int=\count156
+\l__siunitx_unit_prefix_base_int=\count157
+\l__siunitx_unit_prefix_gram_int=\count158
+\l__siunitx_number_product_int=\count159
+\c__siunitx_one_fill_skip=\skip74
+\l__siunitx_table_unit_align_skip=\skip75
+\l__siunitx_table_exponent_dim=\dimen166
+\l__siunitx_table_integer_dim=\dimen167
+\l__siunitx_table_mantissa_dim=\dimen168
+\l__siunitx_table_marker_dim=\dimen169
+\l__siunitx_table_result_dim=\dimen170
+\l__siunitx_table_uncert_dim=\dimen171
+\l__siunitx_table_fill_pre_dim=\dimen172
+\l__siunitx_table_fill_post_dim=\dimen173
+\l__siunitx_table_fill_mid_dim=\dimen174
+\l__siunitx_table_pre_box=\box50
+\l__siunitx_table_post_box=\box51
+\l__siunitx_table_mantissa_box=\box52
+\l__siunitx_table_result_box=\box53
+\l__siunitx_table_number_align_skip=\skip76
+\l__siunitx_table_text_align_skip=\skip77
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareBinaryPrefix with arg. spec. 'mmm' on line
+. 7101.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPostPower with arg. spec. 'mm' on line
+. 7104.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPrefix with arg. spec. 'mmm' on line
+. 7107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPrePower with arg. spec. 'mm' on line
+. 7110.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIQualifier with arg. spec. 'mm' on line
+. 7113.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIUnit with arg. spec. 'O{}mm' on line
+. 7116.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIUnitWithOptions with arg. spec. 'mmm' on
+. line 7119.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ang with arg. spec. 'o>{\SplitArgument {2}{;}}m'
+. on line 7134.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \num with arg. spec. 'om' on line 7142.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \numlist with arg. spec. 'o>{\SplitList {;}}m' on
+. line 7150.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \numrange with arg. spec. 'omm' on line 7158.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SIlist with arg. spec. 'o>{\SplitList {;}}mm' on
+. line 7169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SIrange with arg. spec. 'ommm' on line 7180.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SI with arg. spec. 'omom' on line 7191.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \sisetup with arg. spec. 'm' on line 7194.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \tablenum with arg. spec. 'om' on line 7206.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \si with arg. spec. 'om' on line 7217.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_num:w with arg. spec. 'om' on
+. line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_numrange:w with arg. spec.
+. 'omm' on line 7264.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_SI:w with arg. spec. 'omom' on
+. line 7266.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_SIlist:w with arg. spec. 'omm'
+. on line 7268.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_SIrange:w with arg. spec.
+. 'ommm' on line 7270.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__siunitx_bookmark_si:w with arg. spec. 'om' on
+. line 7271.
+.................................................
+\g__file_internal_ior=\read1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen175
+\pgfutil@tempdimb=\dimen176
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count160
+\c@pgf@countb=\count161
+\c@pgf@countc=\count162
+\c@pgf@countd=\count163
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count164
+\pgfsyssoftpath@bigbuffer@items=\count165
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen185
+\pgfmath@count=\count166
+\pgfmath@box=\box55
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count167
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen186
+\pgf@picmaxx=\dimen187
+\pgf@picminy=\dimen188
+\pgf@picmaxy=\dimen189
+\pgf@pathminx=\dimen190
+\pgf@pathmaxx=\dimen191
+\pgf@pathminy=\dimen192
+\pgf@pathmaxy=\dimen193
+\pgf@xx=\dimen194
+\pgf@xy=\dimen195
+\pgf@yx=\dimen196
+\pgf@yy=\dimen197
+\pgf@zx=\dimen198
+\pgf@zy=\dimen199
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen200
+\pgf@path@lasty=\dimen201
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count168
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen258
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen262
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen263
+\pgf@sys@shading@range@num=\count169
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box59
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box60
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen264
+\pgf@nodesepend=\dimen265
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen266
+\pgffor@skip=\dimen267
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count170
+\pgfplotmarksize=\dimen268
+)
+\tikz@lastx=\dimen269
+\tikz@lasty=\dimen270
+\tikz@lastxsaved=\dimen271
+\tikz@lastysaved=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count171
+\tikznumberofchildren=\count172
+\tikznumberofcurrentchild=\count173
+\tikz@fig@count=\count174
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count175
+\pgfmatrixcurrentcolumn=\count176
+\pgf@matrix@numberofcolumns=\count177
+)
+\tikz@expandcount=\count178
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2014/05/21 v1.14 mathematical typesetting tools
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count179
+\l_MT_multwidth_dim=\dimen275
+\origjot=\skip78
+\l_MT_shortvdotswithinadjustabove_dim=\dimen276
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen277
+\l_MT_above_intertext_sep=\dimen278
+\l_MT_below_intertext_sep=\dimen279
+\l_MT_above_shortintertext_sep=\dimen280
+\l_MT_below_shortintertext_sep=\dimen281
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+LaTeX Info: Redefining \bm on input line 203.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemformula.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip79
+\L@UnitsRaiseTextstyle=\skip80
+\L@UnitsRaiseScriptstyle=\skip81
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen282
+))
+Package: chemformula 2014/04/08 v4.5 typeset chemical compounds and reactions
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeprecatedFormulaCommand with arg. spec. 'mmm' on
+. line 130.
+.................................................
+Variant \keys_set:nV already defined; not changing it on line 134
+Variant \tl_if_blank:VF already defined; not changing it on line 135
+Variant \tl_set_rescan:NnV already defined; not changing it on line 138
+\l__chemformula_tmpa_dim=\dimen283
+\l__chemformula_tmpb_dim=\dimen284
+\l__chemformula_tmpa_int=\count180
+\l__chemformula_tmpb_int=\count181
+\l__chemformula_tmpa_box=\box65
+\l__chemformula_tmpb_box=\box66
+\l__chemformula_arrow_length_dim=\dimen285
+\l__chemformula_arrow_label_height_dim=\dimen286
+\l__chemformula_arrow_label_offset_dim=\dimen287
+\l__chemformula_arrow_minimum_length_dim=\dimen288
+\l__chemformula_arrow_shortage_dim=\dimen289
+\l__chemformula_arrow_offset_dim=\dimen290
+\l__chemformula_arrow_yshift_dim=\dimen291
+\l__chemformula_radical_radius_dim=\dimen292
+\l__chemformula_radical_hshift_dim=\dimen293
+\l__chemformula_radical_vshift_dim=\dimen294
+\l__chemformula_radical_space_dim=\dimen295
+\l__chemformula_arrow_head_dim=\dimen296
+\l__chemformula_name_dim=\dimen297
+\l__chemformula_adduct_space_dim=\dimen298
+\l__chemformula_charge_shift_dim=\dimen299
+\l__chemformula_subscript_shift_dim=\dimen300
+\l__chemformula_superscript_shift_dim=\dimen301
+\l__chemformula_subscript_dim=\dimen302
+\l__chemformula_superscript_dim=\dimen303
+\l__chemformula_bond_dim=\dimen304
+\l__chemformula_bond_space_dim=\dimen305
+\l__chemformula_elspec_pair_distance_dim=\dimen306
+\l__chemformula_elspec_pair_line_length_dim=\dimen307
+\l__chemformula_elspec_pair_width_dim=\dimen308
+\l__chemformula_kroegervink_positive_radius_dim=\dimen309
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen310
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen311
+\l__chemformula_kroegervink_positive_space_dim=\dimen312
+\l__chemformula_stoich_space_skip=\skip82
+\l__chemformula_math_space_skip=\skip83
+\l__chemformula_plus_space_skip=\skip84
+\l__chemformula_count_tokens_int=\count182
+\g__chemformula_lewis_int=\count183
+\l__chemformula_arrow_arg_i_box=\box67
+\l__chemformula_arrow_arg_ii_box=\box68
+\l__chemformula_superscript_box=\box69
+\l__chemformula_subscript_box=\box70
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \charrow with arg. spec. 'mO{}O{}' on line 839.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemArrow with arg. spec. 'mm' on line 901.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemArrow with arg. spec. 'mm' on line
+. 909.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemArrow with arg. spec. 'mm' on line 916.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ShowChemArrow with arg. spec. 'm' on line 922.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ch with arg. spec. 'O{}m' on line 1168.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chcpd with arg. spec. 'O{}m' on line 1188.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chname with arg. spec. 'R(){}R(){}' on line 1228.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemBond with arg. spec. 'mm' on line 1426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemBond with arg. spec. 'mm' on line
+. 1433.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemBondAlias with arg. spec. 'mm' on line
+. 1446.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemBondAlias with arg. spec. 'mm' on line
+. 1458.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemBond with arg. spec. 'mm' on line 1465.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ShowChemBond with arg. spec. 'm' on line 1471.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \bond with arg. spec. 'm' on line 1474.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chstoich with arg. spec. 'm' on line 1976.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chlewis with arg. spec. 'O{}mm' on line 2879.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setchemformula with arg. spec. 'm' on line 2884.
+.................................................
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemgreek.sty
+Package: chemgreek 2014/01/29 v0.4 interface for upright greek letters for use 
+in chemistry (CN)
+\l__chemgreek_tmpa_int=\count184
+\g__chemgreek_tmpa_int=\count185
+Variant \tl_if_eq:VnTF already defined; not changing it on line 173
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newchemgreekmapping with arg. spec. 'O{}mm' on
+. line 272.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \renewchemgreekmapping with arg. spec. 'O{}mm' on
+. line 275.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \declarechemgreekmapping with arg. spec. 'O{}mm'
+. on line 278.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \changechemgreeksymbol with arg. spec. 'mmmm' on
+. line 308.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \activatechemgreekmapping with arg. spec. 'sm' on
+. line 368.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \selectchemgreekmapping with arg. spec. 'm' on
+. line 373.
+.................................................
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemDeprecated with arg. spec. 'mm' on
+. line 347.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemDropped with arg. spec. 'm' on line
+. 357.
+.................................................
+\l__chemmacros_tmpa_int=\count186
+\l__chemmacros_tmpa_box=\box71
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemParticle with arg. spec. 'mm' on line 741.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemParticle with arg. spec. 'mm' on line
+. 748.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemParticle with arg. spec. 'mm' on line
+. 751.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mch with arg. spec. 'o' on line 810.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \pch with arg. spec. 'o' on line 817.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fmch with arg. spec. 'o' on line 824.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fpch with arg. spec. 'o' on line 831.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chemmacros_Nu:w with arg. spec. 'o' on line 903.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ba with arg. spec. 'o' on line 926.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemIUPAC with arg. spec. 'mm' on line
+. 1067.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemIUPAC with arg. spec. 'mm' on line 1070.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemIUPAC with arg. spec. 'mm' on line 1073.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \LetChemIUPAC with arg. spec. 'mm' on line 1076.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeprecateChemIUPAC with arg. spec. 'mm' on line
+. 1079.
+.................................................
+\l__chemmacros_cip_kern_dim=\dimen313
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \cip with arg. spec. 'm' on line 1090.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \Sconf with arg. spec. 'O{S}' on line 1131.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \Rconf with arg. spec. 'O{R}' on line 1132.
+.................................................
+\l__chemmacros_iupac_hyphen_pre_dim=\dimen314
+\l__chemmacros_iupac_hyphen_post_dim=\dimen315
+\l__chemmacros_iupac_break_dim=\dimen316
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \iupac with arg. spec. 'm' on line 1319.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemLatin with arg. spec. 'mm' on line 1368.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemLatin with arg. spec. 'mm' on line 1371.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemLatin with arg. spec. 'mm' on line
+. 1374.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \p with arg. spec. 'm' on line 1498.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \pKa with arg. spec. 'o' on line 1520.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \pKb with arg. spec. 'o' on line 1530.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mech with arg. spec. 'o' on line 1686.
+.................................................
+\l__chemmacros_ox_number_int=\count187
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ox with arg. spec. 'so>{\SplitArgument {1}{,}}m'
+. on line 1945.
+.................................................
+\l__chemmacros_redox_sep_dim=\dimen317
+\l__chemmacros_redox_sep_default_dim=\dimen318
+\l__chemmacros_redox_dist_dim=\dimen319
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \OX with arg. spec. '>{\SplitArgument {1}{,}}m' on
+. line 1967.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \redox with arg. spec. '>{\SplitArgument
+. {1}{,}}r()ooG{}' on line 2061.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemNMR with arg. spec. 'mm' on line 2273.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemNMR with arg. spec. 'mm' on line 2276.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemNMR with arg. spec. 'mm' on line 2279.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NMR with arg. spec. 'sG{}D(){}O{}' on line 2286.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chemmacros_data:w with arg. spec. 'smo' on line
+. 2400.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-environment"
+. 
+. Defining document environment 'experimental' with arg. spec. 'o' on line
+. 2430.
+.................................................
+\l__chemmacros_phases_space_dim=\dimen320
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemPhase with arg. spec. 'mom' on line 2599.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemPhase with arg. spec. 'mom' on line
+. 2602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemPhase with arg. spec. 'mom' on line
+. 2605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \phase with arg. spec. 'm' on line 2648.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \AddRxnDesc with arg. spec. 'm' on line 2700.
+.................................................
+\c@chemmacros_save_reaction=\count188
+\c@reaction=\count189
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemReaction with arg. spec. 'O{}mm' on line
+. 2837.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemReaction with arg. spec. 'O{}mm' on line
+. 2839.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemReaction with arg. spec. 'O{}mm' on
+. line 2841.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \standardstate with arg. spec. '' on line 2858.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \State with arg. spec. 'sO{}mG{}' on line 2955.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \NewChemState with arg. spec. 'omO{}mm' on line
+. 3008.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareChemState with arg. spec. 'omO{}mm' on
+. line 3021.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \RenewChemState with arg. spec. 'omO{}mm' on line
+. 3034.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newman with arg. spec. 'od()>{\SplitArgument
+. {5}{,}}m' on line 3235.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \orbital with arg. spec. 'om' on line 3914.
+.................................................
+\l__chemmacros_el_length_dim=\dimen321
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \chemsetup with arg. spec. 'om' on line 4017.
+.................................................
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 15.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/ghsystem.sty
+Package: ghsystem 2014/04/08 v4.5 globally harmonised system
+\l__ghsystem_tmpa_int=\count190
+\l__ghsystem_tmpb_int=\count191
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip85
+\LTright=\skip86
+\LTpre=\skip87
+\LTpost=\skip88
+\LTchunksize=\count192
+\LTcapwidth=\dimen322
+\LT@head=\box72
+\LT@firsthead=\box73
+\LT@foot=\box74
+\LT@lastfoot=\box75
+\LT@cols=\count193
+\LT@rows=\count194
+\c@LT@tables=\count195
+\c@LT@chunks=\count196
+\LT@p@ftn=\toks42
+)
+\l__ghsystem_list_all_column_width_dim=\dimen323
+\l__ghsystem_table_line_sep_dim=\dimen324
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \loadghsystemlanguage with arg. spec. 'm' on line
+. 271.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ghs with arg. spec. 'somm' on line 409.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ghslistall with arg. spec. 'o' on line 495.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ghspic with arg. spec. 'om' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ghssetup with arg. spec. 'm' on line 618.
+.................................................
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(./ChemHLfinalIA.aux)
 \openout1 = `ChemHLfinalIA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -372,35 +1614,36 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count132
-\scratchdimen=\dimen155
-\scratchbox=\box45
-\nofMPsegments=\count133
-\nofMParguments=\count134
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count135
-\MPscratchDim=\dimen156
-\MPnumerator=\count136
-\makeMPintoPDFobject=\count137
-\everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\scratchcounter=\count197
+\scratchdimen=\dimen325
+\scratchbox=\box76
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count200
+\MPscratchDim=\dimen326
+\MPnumerator=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks44
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -412,29 +1655,75 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/translations/translations-basic-d
+ictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/siunitx/config/siunitx-abbreviati
+ons.cfg
+File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
+) ABD: EveryShipout initializing macros
+(/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/language/ghsystem_engl
+ish.def)
+\c__siunitx_mathsf_int=\count278
+\c__siunitx_mathtt_int=\count279
+
+</Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png, id=4, 328.22626pt x 84.3
+15pt>
+File: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png Graphic file (type p
+ng)
+ <use /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png>
+Package pdftex.def Info: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png u
+sed on input line 37.
+(pdftex.def)             Requested size: 328.22545pt x 84.31477pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.aux) ) 
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
+abhisreekanth/Desktop/ChemHL-IA/Figures/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[2] (./ChemHLfinalIA.aux) ) 
 Here is how much of TeX's memory you used:
- 8370 strings out of 493105
- 153688 string characters out of 6137072
- 201507 words of memory out of 5000000
- 11793 multiletter control sequences out of 15000+600000
- 4850 words of font info for 18 fonts, out of 8000000 for 9000
+ 26828 strings out of 493117
+ 591726 string characters out of 6135433
+ 613052 words of memory out of 5000000
+ 29906 multiletter control sequences out of 15000+600000
+ 9470 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,4n,37p,10387b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on ChemHLfinalIA.pdf (1 page, 22174 bytes).
+ 70i,21n,62p,10363b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb>
+Output written on ChemHLfinalIA.pdf (2 pages, 88310 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
