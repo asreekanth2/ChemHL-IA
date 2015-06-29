@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1435459763 "ChemHLfinalIA.tex" "ChemHLfinalIA.pdf" "ChemHLfinalIA" 1435459765
+["pdflatex"] 1435556657 "ChemHLfinalIA.tex" "ChemHLfinalIA.pdf" "ChemHLfinalIA" 1435556659
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
@@ -78,6 +78,9 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict" 1279125320 3435 0a4d096dde3f8fe682c2aedd33b8137d ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex" 1338588496 5067 f1bb98f63e0761f897f48a159127fbb6 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator.sty" 1356734651 3824 9ccc2efa439cf13750315a0f20d4f691 ""
+  "/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty" 1368312746 65148 c61accbd2b9a5316d9be0887ec48d722 ""
+  "/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty" 1368312746 62748 b02c0dc118f5f35146d37cec569e83b1 ""
+  "/usr/local/texlive/2014/texmf-dist/tex/latex/caption/ltcaption.sty" 1360019375 6681 79588c96d214097730f021722fa0d151 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemformula.sty" 1397515911 113868 e85eabab82b53449023642bdaf4b8ed8 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemgreek.sty" 1391035145 35974 21901b508b83f72f4cc9f58a76701ba8 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/chemmacros.sty" 1397515911 150295 27e674f744de0759a5e9e0492cbd6dea ""
@@ -135,12 +138,13 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1253232110 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty" 1137111039 4029 0462ee5ab265cf59dc15a41a3b883101 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "ChemHLfinalIA.aux" 1435459765 145 45d541fdbb2016574bd5a57ef77d9ee3 ""
-  "ChemHLfinalIA.tex" 1435459759 8055 39292b62278362712291e8ff803c1469 ""
+  "ChemHLfinalIA.aux" 1435556659 152 5aa91ee74300fbdbf626e9b9e475a9ed ""
+  "ChemHLfinalIA.tex" 1435556654 9660 e574e16b2effb424e13c136cc313b67c ""
   "Figures/1.png" 1435427817 23398 98dbbb4bb1b8113b6771d914676568bd ""
+  "Figures/2.png" 1435556097 45411 81b5cfd3da3f8c8355440caad0f764fc ""
   (generated)
   "ChemHLfinalIA.aux"
+  "ChemHLfinalIA.log"
+  "ChemHLfinalIA.pdf"
   "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.log"
   "/home/abhi/Desktop/ChemHL-IA/ChemHLfinalIA.pdf"
-  "ChemHLfinalIA.pdf"
-  "ChemHLfinalIA.log"

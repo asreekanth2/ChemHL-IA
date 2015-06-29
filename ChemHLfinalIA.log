@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2015 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUN 2015 01:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1499,13 +1499,30 @@ File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
 . Defining document command \chemsetup with arg. spec. 'om' on line 4017.
 .................................................
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen322
+\captionmargin@=\dimen323
+\captionwidth=\dimen324
+\caption@tempdima=\dimen325
+\caption@indent=\dimen326
+\caption@parindent=\dimen327
+\caption@hangindent=\dimen328
+)
+\c@ContinuedFloat=\count190
+Package caption Info: float package is loaded.
+)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 15.
+h' as default language. on input line 17.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/ghsystem.sty
 Package: ghsystem 2014/04/08 v4.5 globally harmonised system
-\l__ghsystem_tmpa_int=\count190
-\l__ghsystem_tmpb_int=\count191
+\l__ghsystem_tmpa_int=\count191
+\l__ghsystem_tmpb_int=\count192
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
@@ -1513,20 +1530,20 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTright=\skip86
 \LTpre=\skip87
 \LTpost=\skip88
-\LTchunksize=\count192
-\LTcapwidth=\dimen322
+\LTchunksize=\count193
+\LTcapwidth=\dimen329
 \LT@head=\box72
 \LT@firsthead=\box73
 \LT@foot=\box74
 \LT@lastfoot=\box75
-\LT@cols=\count193
-\LT@rows=\count194
-\c@LT@tables=\count195
-\c@LT@chunks=\count196
+\LT@cols=\count194
+\LT@rows=\count195
+\c@LT@tables=\count196
+\c@LT@chunks=\count197
 \LT@p@ftn=\toks42
 )
-\l__ghsystem_list_all_column_width_dim=\dimen323
-\l__ghsystem_table_line_sep_dim=\dimen324
+\l__ghsystem_list_all_column_width_dim=\dimen330
+\l__ghsystem_table_line_sep_dim=\dimen331
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1560,25 +1577,25 @@ Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 (./ChemHLfinalIA.aux)
 \openout1 = `ChemHLfinalIA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1616,17 +1633,17 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen325
+\scratchcounter=\count198
+\scratchdimen=\dimen332
 \scratchbox=\box76
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\nofMPsegments=\count199
+\nofMParguments=\count200
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count200
-\MPscratchDim=\dimen326
-\MPnumerator=\count201
+\MPscratchCnt=\count201
+\MPscratchDim=\dimen333
 Normal \count register pool exhausted, switching to extended pool.
-\makeMPintoPDFobject=\count277
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
 \everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1672,10 +1689,18 @@ Dictionary: translator-basic-dictionary, Language: English
 ons.cfg
 File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
 ) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
 (/usr/local/texlive/2014/texmf-dist/tex/latex/chemmacros/language/ghsystem_engl
 ish.def)
-\c__siunitx_mathsf_int=\count278
-\c__siunitx_mathtt_int=\count279
+\c__siunitx_mathsf_int=\count279
+\c__siunitx_mathtt_int=\count280
 
 </Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png, id=4, 328.22626pt x 84.3
 15pt>
@@ -1683,15 +1708,15 @@ File: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png Graphic file (type p
 ng)
  <use /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png>
 Package pdftex.def Info: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/1.png u
-sed on input line 37.
+sed on input line 39.
 (pdftex.def)             Requested size: 328.22545pt x 84.31477pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--45
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
@@ -1699,61 +1724,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
 abhisreekanth/Desktop/ChemHL-IA/Figures/1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 65--82
 
  []
 
-[2] [3] (./ChemHLfinalIA.aux) ) 
+[2] [3]
+</Users/abhisreekanth/Desktop/ChemHL-IA/Figures/2.png, id=26, 362.7954pt x 218.
+2554pt>
+File: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/2.png Graphic file (type p
+ng)
+ <use /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/2.png>
+Package pdftex.def Info: /Users/abhisreekanth/Desktop/ChemHL-IA/Figures/2.png u
+sed on input line 133.
+(pdftex.def)             Requested size: 362.79451pt x 218.25485pt.
+ [4 </Users/abhisreekanth/Desktop/ChemHL-IA/Figures/2.png>] (./ChemHLfinalIA.au
+x) ) 
 Here is how much of TeX's memory you used:
- 26828 strings out of 493117
- 591726 string characters out of 6135433
- 614052 words of memory out of 5000000
- 29906 multiletter control sequences out of 15000+600000
+ 27911 strings out of 493117
+ 611721 string characters out of 6135433
+ 627480 words of memory out of 5000000
+ 30979 multiletter control sequences out of 15000+600000
  9470 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,21n,62p,10363b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy7.pfb>
-Output written on ChemHLfinalIA.pdf (3 pages, 92833 bytes).
+ 70i,21n,62p,10363b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on ChemHLfinalIA.pdf (4 pages, 138572 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
